@@ -1,0 +1,4 @@
+faster-whisper
+# Compatibility workarounds for the errors documented in README.md:
+Brotli>=1.2.0
+av>=11,<19
